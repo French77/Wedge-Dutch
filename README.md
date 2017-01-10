@@ -1,1 +1,2 @@
 # Wedge-Dutch
+Nederlandse vertaling
