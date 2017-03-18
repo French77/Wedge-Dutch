@@ -219,6 +219,7 @@ $txt['error_need_verification_code'] = 'Voer de verificatiecode hieronder in om 
 $txt['error_bad_file'] = 'Sorry, het gespecificeerde bestand kon niet worden geopend: %s';
 $txt['error_bad_line'] = 'De gespecificeerde regel is ongeldig.';
 $txt['error_too_quickly'] = 'U voltooid het inschrijfformulier te snel, sneller dan normaal gezien mogelijk is.<br><br><div class="smalltext">(waarschijnlijk robots waar we niet al te vriendelijk voor zijn!)</div>';
+$txt['error_subject_too_long'] = 'Onderwerp is te lang. Maximale lengte is %d maar jouw onderwerp is %d karakters lang.';
 
 $txt['smiley_not_found'] = 'Smiley niet gevonden.';
 $txt['smiley_has_no_code'] = 'Er is geen code voor deze smiley ingevuld.';
