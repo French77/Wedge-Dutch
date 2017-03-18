@@ -5,6 +5,7 @@ $txt['notifications'] = 'Notificaties';
 $txt['notifications_short_unread'] = 'Ongelezen';
 $txt['notifications_short_latest'] = 'Laatste';
 $txt['notifications_short_all'] = 'Alles bekijken';
++$txt['notifications_short_mark_as_read'] = 'Markeer als gelezen';
 $txt['notifications_short_settings'] = 'Instellingen';
 $txt['notifications_short_unread_pms'] = 'Ongelezen';
 $txt['notifications_short_inbox'] = 'Postvak in';
