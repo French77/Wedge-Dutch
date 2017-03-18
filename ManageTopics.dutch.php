@@ -28,13 +28,13 @@ $txt['moveTopic2'] = 'Verander het Topic onderwerp.';
 $txt['moveTopic3'] = 'Nieuw onderwerp';
 $txt['moveTopic4'] = 'Verander onderwerp van ieder bericht.';
 $txt['moveTopic_redirection_period'] = 'Hoe lang moet het verwijzingstopic<br>blijven staan?';
-$txt['moveTopic_redirection_day'] = array(1 => '1 day', 'n' => '%s days');
+$txt['moveTopic_redirection_day'] = array(1 => '1 dag', 'n' => '%s dagen');
 $txt['moveTopic_redirection_perm'] = 'Definitief';
 $txt['moveTopic_redirection_auto'] = 'Moeten gebruikers automatisch worden doorgestuurd naar het nieuwe onderwerp?';
 $txt['move_topic_unapproved_js'] = 'Verwittiging: dit topic werd nog niet goedgekeurd.<br><br>Het is niet aangeraden dat je een verwijzingstopic aanmaakt tenzij je de bedoeling hebt dit bericht direct toe te staan, na het verplaatsen.';
 $txt['movetopic_auto_board'] = '[BOARD]';
 $txt['movetopic_auto_topic'] = '[TOPIC LINK]';
-$txt['movetopic_default'] = 'This topic has been moved to {auto_board}' . "\n\n" . '{auto_topic}';
+$txt['movetopic_default'] = 'Dit topic is verplaatst naar {auto_board}' . "\n\n" . '{auto_topic}';
 
 $txt['sendtopic_send'] = 'Verzenden';
 $txt['sendtopic_title'] = 'Zend topic &quot;%1$s&quot; naar een vriend.';
