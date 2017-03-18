@@ -65,7 +65,7 @@ $txt['total_boards'] = 'Totaal aantal boards';
 $txt['total_cats'] = 'Totaal aantal categorieen';
 
 $txt['totalTimeLogged_d_short'] = 'd';
-$txt['totalTimeLogged_h_short'] = 'h';
+$txt['totalTimeLogged_h_short'] = 'u';
 $txt['totalTimeLogged_m_short'] = 'm';
 
 // Debug related stats - when $db_show_debug is true.
