@@ -7,6 +7,8 @@ $txt['enableEmbeddedFlash'] = 'Sta Flash embedding toe in berichten';
 $txt['enableEmbeddedFlash_warning'] = 'Dit kan een veiligheidsrisico zijn!';
 $txt['additional_options_collapsable'] = 'Schakel inklapbare extra bericht opties in';
 
+$txt['max_subjectLength'] = 'Maximale toegestane onderwerp grootte';
+$txt['max_subjectLength_zero'] = '0 voor geen max. Attentie: voor waardes > 255 moet het berichten tabel worden gewijzigd.';
 $txt['max_messageLength'] = 'Maximum toegestane berichtgrootte';
 $txt['max_messageLength_zero'] = '0 voor geen max.';
 $txt['topicSummaryPosts'] = 'Berichten om te laten zien op topic overzicht';
