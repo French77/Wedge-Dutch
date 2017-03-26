@@ -5,9 +5,9 @@ $txt['changes_saved'] = 'U veranderingen zijn opgeslagen';
 
 $txt['minutes_remaining_message'] = 'U moet opnieuw uw wachtwoord ingeven binnen: %s';
 $txt['minutes_remaining'] = array(
-	'0' => 'less than a minute',
-	'1' => '1 minute',
-	'n' => '%s minutes',
+	'0' => 'minder dan een minuut',
+	'1' => '1 minuut',
+	'n' => '%s minuten',
 );
 
 $txt['new_to_wedge'] = 'Nieuw met Wedge?';
@@ -200,7 +200,7 @@ $txt['log_settings_desc'] = 'Gebruik deze tools om te configureren hoe logs werk
 $txt['mailqueue_title'] = 'E-mail instellingen';
 $txt['mailqueue_browse'] = 'Bekijk wachtrij';
 $txt['mailqueue_settings'] = 'instellingen';
-$txt['mailqueue_templates'] = 'E-mail Templates';
+$txt['mailqueue_templates'] = 'E-mail Sjablonen';
 
 $txt['db_error_send'] = 'E-mail versturen bij een database-verbindingsfout';
 $txt['db_persist'] = 'Gebruik een vaste verbinding ';
@@ -215,8 +215,8 @@ $txt['mmessage'] = 'Weer te geven bericht';
 $txt['dvc_your'] = 'Jouw versie';
 $txt['dvc_current'] = 'huidige Versie';
 $txt['dvc_sources'] = 'Bronnen';
-$txt['dvc_default'] = 'Standaard templates';
-$txt['dvc_templates'] = 'Huidige templates';
+$txt['dvc_default'] = 'Standaard sjablonen';
+$txt['dvc_templates'] = 'Huidige sjablonen';
 $txt['dvc_languages'] = 'Taalpakketten';
 
 $txt['admin_confirm_password'] = '(bevestigd)';
