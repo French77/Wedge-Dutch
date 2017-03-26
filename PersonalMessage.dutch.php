@@ -56,17 +56,17 @@ $txt['pm_read'] = 'Gelezen';
 $txt['pm_replied'] = 'Geantwoord aan';
 
 // Drafts.
-$txt['pm_menu_drafts'] = 'Draft berichten';
-$txt['showDrafts'] = 'Laat drafts zien';
-$txt['showDrafts_desc'] = 'Deze sectie laat alle draft berichten zien die zijn opgeslagen,of die zijn opgeslagen op jou verzoek';
-$txt['show_drafts_none'] = 'Er zijn geen draft berichten momenteel opgeslagen';
-$txt['edit_draft'] = 'Bewerk draft';
+$txt['pm_menu_drafts'] = 'Kladjes';
+$txt['showDrafts'] = 'Laat kladjes zien';
+$txt['showDrafts_desc'] = 'Deze sectie laat alle kladjes zien die zijn opgeslagen,of die zijn opgeslagen op jou verzoek';
+$txt['show_drafts_none'] = 'Er zijn geen kladjes momenteel opgeslagen';
+$txt['edit_draft'] = 'Bewerk kladje';
 $txt['draftAutoPurge'] = array(
-	1 => 'Drafts are stored on the server for up to a day, and if not posted or modified in that time, they will be removed.',
-	'n' => 'Drafts are stored on the server for up to %s days, and if not posted or modified in that time, they will be removed.',
+	1 => 'Kladjes staan voor 1 dag op de server opgeslagen, wanneer deze niet worden geplaatst binnen 1 dag, worden ze verwijderd.',
+	'n' => 'Kladjes opgeslagen op de server voor %s dagen, wanneer deze niet worden geplaatst of gewijzigd binnen deze tijd, dan worden ze verwijderd.',
 );
-$txt['remove_all_drafts'] = 'verwijder alle drafts';
-$txt['remove_all_drafts_confirm'] = 'Weet je zeker dat je alle draft berichten wilt verwijderen? (Dit kan niet ongedaan gemaakt worden)';
+$txt['remove_all_drafts'] = 'verwijder alle kladjes';
+$txt['remove_all_drafts_confirm'] = 'Weet je zeker dat je alle kladjes wilt verwijderen? (Dit kan niet ongedaan gemaakt worden)';
 $txt['no_recipients'] = '(geen ontvangers)';
 
 // Message Pruning.
