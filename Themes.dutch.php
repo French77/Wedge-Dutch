@@ -30,9 +30,9 @@ $txt['theme_latest_fetch'] = 'Ophalen van de lijst met nieuwste thema\'s van www
 
 $txt['theme_set'] = 'Gebruik dit thema';
 $txt['skin_users'] = array(
-	0 => 'No one is using this skin.',
-	1 => '1 person is using this skin.',
-	'n' => '%s people are using this skin.',
+	0 => 'Niemand gebruikt dit thema.',
+	1 => '1 persoon gebruikt dit thema.',
+	'n' => '%s personen gebruiken dit thema.',
 );
 $txt['current_theme'] = 'Huidig thema';
 
@@ -42,7 +42,7 @@ $txt['theme_skin_set'] = 'Gebruik deze achtergrond';
 
 $txt['theme_edit'] = 'Bewerk thema';
 $txt['theme_edit_style'] = 'Pas de stylesheets aan. (kleuren, fonts, enz.)';
-$txt['theme_edit_index'] = 'Pas de index template aan (de hoofd template)';
+$txt['theme_edit_index'] = 'Pas index sjabloon aan (de hoofd sjabloon)';
 $txt['theme_edit_no_save'] = 'Dit bestand kan niet worden opgeslagen omdat het niet beschrijfbaar is! Zorg ervoor dat het volgende bestand ge-chmod is naar 777 of de juiste permissies heeft.';
 $txt['theme_edit_save'] = 'Opslaan';
 
