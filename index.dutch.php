@@ -274,7 +274,7 @@ $txt['welcome_guest_noregister'] = 'Welkom, <strong>%1$s</strong>. A.u.b <a href
 $txt['login_or_register'] = 'A.u.b <a href="<URL>?action=login">inloggen</a> of anders <a href="<URL>?action=register">registreren</a>.';
 $txt['please_login'] = 'A.u.b <a href="<URL>?action=login">inloggen</a>.';
 $txt['welcome_guest_activate'] = '<a href="<URL>?action=activate">Activerings e-mail</a><br>Gemist?';
-$txt['hello_member'] = 'Hoi,';
+$txt['hello_member'] = 'Hallo,';
 $txt['hello_guest'] = 'Welkom,';
 $txt['select_destination'] = 'Selecteer bestemming';
 
@@ -301,7 +301,7 @@ $txt['redirect_board'] = 'Doorverwijzings Board';
 
 $txt['notification'] = 'Notificatie';
 
-$txt['your_ban'] = 'Het spijt ons %1$s, u bent uitgesloten van het gebruik van dit forum!<br>%2$s';
+$txt['your_ban'] = 'Het spijt ons %1$s, u bent uitgesloten om het forum te gebruiken!<br>%2$s';
 $txt['your_ban_expires'] = 'Deze ban is ingesteld op %1$s.';
 $txt['your_ban_expires_never'] = 'Deze ban vervalt niet.';
 $txt['ban_continue_browse'] = 'U mag als gast door het forum bladeren.';
@@ -318,7 +318,7 @@ $txt['print'] = 'Print';
 $txt['profile'] = 'Profiel';
 $txt['not_applicable'] = 'N.v.t';
 $txt['preview'] = 'Voorbeeld';
-$txt['remove_draft'] = 'Onderwerp verwijderen';
+$txt['remove_draft'] = 'Kladje verwijderen';
 $txt['ip'] = 'IP';
 $txt['by'] = 'door';
 $txt['days_word'] = 'dagen';
@@ -333,7 +333,7 @@ $txt['topic_stats'] = 'Topic statistieken';
 $txt['latest_member'] = 'Nieuwste forumlid';
 $txt['latest_post'] = 'Nieuwste bericht';
 
-$txt['youve_got_pms'] = array(0 => 'You have no messages...', 1 => 'You have 1 message...', 'n' => 'You have %s messages...');
+$txt['youve_got_pms'] = array(0 => 'Er zijn geen berichten...', 1 => 'Er is 1 bericht...', 'n' => 'Er zijn %s berichten...');
 $txt['click_to_view_them'] = 'Klik <a href="%1$s">hier</a> om deze te bekijken.';
 
 $txt['print_page'] = 'print pagina';
@@ -357,8 +357,8 @@ $txt['poll_unlock'] = 'Open stemming';
 $txt['poll_edit'] = 'Bewerk poll';
 $txt['poll'] = 'poll';
 $txt['poll_voters_guests_only'] = array(
-	1 => '1 guest',
-	'n' => '%1$s guests',
+	1 => '1 gast',
+	'n' => '%1$s gasten',
 );
 $txt['poll_voters'] = array(
 	1 => 'en 1 gast',
@@ -414,7 +414,7 @@ $txt['copyright'] = 'Forum software: <a href="https://github.com/Wedge/wedge" ta
 $txt['dynamic_replacements'] = '<abbr title="Dynamic Replacements">DR</abbr>';
 
 $txt['template_block_error'] = 'Niet gevonden de "%1$s" sjabloonblokken.';
-$txt['theme_template_error'] = 'Niet in staat om de "%1$s" template te laden.';
+$txt['theme_template_error'] = 'Niet in staat om de "%1$s" sjablonen te laden.';
 $txt['theme_language_error'] = 'Niet in staat om de  "%1$s" taalbestanden te laden.';
 
 $txt['sub_boards'] = 'Sub-Boards';
@@ -434,8 +434,8 @@ $txt['mlist_search_results'] = 'Zoek naar resultaten';
 $txt['mlist_search_by'] = 'Zoek door %1$s';
 $txt['mlist_menu_view'] = 'Bekijk de Ledenlijst';
 
-$txt['attach_downloaded'] = array(1 => 'downloaded once.', 'n' => 'downloaded %s times.');
-$txt['attach_viewed'] = array(1 => 'viewed once.', 'n' => 'viewed %s times.');
+$txt['attach_downloaded'] = array(1 => 'downloaded 1 keer.', 'n' => 'downloaded %s keer.');
+$txt['attach_viewed'] = array(1 => '1 keer bekeken.', 'n' => 'bekeken %s keer.');
 
 $txt['settings'] = 'instellingen';
 $txt['never'] = 'Nooit';
@@ -495,7 +495,7 @@ $txt['feed'] = 'Laatste berichten Feed';
 $txt['feed_current_topic'] = 'Dit topic:';
 $txt['feed_current_forum'] = 'Dit forum:';
 $txt['feed_current_blog'] = 'Dit blog:';
-$txt['feed_everywhere'] = 'Alle:';
+$txt['feed_everywhere'] = 'Allen:';
 $txt['feed_posts'] = '<a href="%1$s">berichten</a>';
 $txt['feed_topics'] = '<a href="%1$s">topics</a>';
 
@@ -532,19 +532,19 @@ $txt['approve_members_waiting'] = array(
 );
 
 $txt['notifyboard_turnon'] = 'Wilt u een notificatie e-mail als iemand een nieuw topic plaatst in dit board?';
-$txt['notifyboard_turnoff'] = 'Weet je zeker dat je niet een notificatie nieuw topic wil ontvangen voor dit board/';
+$txt['notifyboard_turnoff'] = 'Weet je zeker dat je geen notificatie nieuw topic wil ontvangen voor dit board/';
 
 $txt['show_unread'] = 'Ongelezen berichten';
 $txt['show_unread_replies'] = 'Ongelezen reacties';
 
 $txt['quickmod_delete_selected'] = 'Verwijder geselecteerd';
 
-$txt['show_personal_messages'] = 'U hebt een of meer nieuwe persoonlijke berichten ontvangen. <br><br> Wilt u een nieuw venster openen om ze te bekijken?';
+$txt['show_personal_messages'] = 'U hebt een of meerdere nieuwe persoonlijke berichten ontvangen. <br><br> Wilt u een nieuw venster openen om ze te bekijken?';
 
 $txt['previous_next_back'] = '&laquo; vorige';
 $txt['previous_next_forward'] = 'volgende &raquo;';
 
-$txt['upshrink_description'] = 'Klap dit In of uit.';
+$txt['upshrink_description'] = 'Klap dit in of uit.';
 
 $txt['mark_unread'] = 'Markeer als ongelezen';
 
@@ -562,9 +562,9 @@ $txt['unapproved_posts'] = 'Afgekeurde berichten (Topics: %1$d, Posts: %2$d)';
 $txt['ajax_in_progress'] = 'Laden....';
 
 $txt['verification'] = 'Verificatie';
-$txt['visual_verification_description'] = 'Typ de letters in de weergegeven afbeelding ';
-$txt['visual_verification_sound'] = 'Luister naar de letters';
-$txt['visual_verification_request_new'] = 'Vraag om andere afbeelding ';
+$txt['visual_verification_description'] = 'Typ de letters over in de weergegeven afbeelding ';
+$txt['visual_verification_sound'] = 'de letters laten voorlezen';
+$txt['visual_verification_request_new'] = 'Vraag om een andere afbeelding ';
 $txt['visual_verification_hidden'] = 'Dit vak moet leeg blijven';
 
 // Sub menu labels
@@ -572,7 +572,7 @@ $txt['summary'] = 'Overzicht';
 $txt['account'] = 'Account instellingen';
 $txt['forumprofile'] = 'Forum Profiel';
 $txt['change_skin'] = 'Skin Selectie';
-$txt['draft_posts'] = 'Ontwerp berichten ';
+$txt['draft_posts'] = 'Kladjes ';
 
 $txt['skin_default'] = 'Standaard';
 $txt['skin_default_mobile'] = 'Mobiel standaard ';
@@ -621,7 +621,7 @@ $txt['click_for_spoiler'] = '(klik voor tonen/verbergen)';
 
 $txt['readmore'] = '(%1$d meer tekens)';
 $txt['thoughts'] = 'Chat-berichten!!';
-$txt['add_thought'] = '(Klik hier om u chat te plaatsen)';
+$txt['add_thought'] = '(Klik hier om chat te plaatsen)';
 $txt['no_thoughts'] = 'Geen chat op dit moment';
 $txt['thome_edit'] = 'Toevoegen';
 $txt['thome_remove'] = 'Verwijder';
