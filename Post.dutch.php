@@ -180,7 +180,7 @@ $txt['error_new_reply_reading'] = array(
 $txt['announce_this_topic'] = 'Verstuur een aankondiging over dit topic naar de leden';
 $txt['announce_title'] = 'Verstuur een aankondiging';
 $txt['announce_desc'] = 'Met deze pagina kun je een aankondiging versturen aan de geselecteerde ledengroepen over dit topic.';
-$txt['announce_sending'] = 'Bezit met het versturen van een aankondiging voor topic';
+$txt['announce_sending'] = 'Bezig met het versturen van een aankondiging over dit topic';
 $txt['announce_done'] = 'gedaan';
 $txt['announce_continue'] = 'Ga verder';
 $txt['announce_topic'] = 'Kondig dit topic aan';
@@ -207,6 +207,6 @@ $txt['digest_mod_act_split'] = '"%1$s" is gesplitst';
 $txt['mail_send_unable'] = 'Niet geslaagd om een e-mail te sturen naar het e-mailadres \'%1$s\'';
 $txt['topic_summary'] = 'Topic overzicht';
 
-$txt['order_pinned_topics'] = 'Vastgezette Topics';
-$txt['order_pinned_topics_desc'] = 'In dit gebied kunt u de vastgezette topics van dit board reorganiseren. sleep ze naar hun nieuwe positie en druk op de knop Opslaan.';
+$txt['order_pinned_topics'] = 'Topics die zijn vastgezet';
+$txt['order_pinned_topics_desc'] = 'In dit gebied kunt u de topics die zijn vastgezet in dit board reorganiseren. sleep ze naar hun nieuwe positie en druk op de knop Opslaan.';
 $txt['order_last_post_by'] = 'Laatste bericht door %1$s<br>%2$s';
