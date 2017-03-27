@@ -159,19 +159,19 @@ $txt['trackUser'] = 'Traceer gebruiker';
 $txt['trackActivity'] = 'Activiteit';
 $txt['trackIP'] = 'IP-adres';
 
-$txt['showDrafts'] = 'Laat ontwerpteksten zien';
-$txt['showDrafts_desc'] = 'Deze sectie laat alle ontwerpteksten zien die zijn opgeslagen,of die zijn opgeslagen op jou verzoek.';
+$txt['showDrafts'] = 'Laat kladjes zien';
+$txt['showDrafts_desc'] = 'Deze sectie laat alle kladjes zien die zijn opgeslagen,of die zijn opgeslagen op eigen verzoek.';
 $txt['drafts_noboard'] = '(geen board)';
-$txt['show_drafts_none'] = 'Er zijn geen ontwerpteksten momenteel opgeslagen';
-$txt['edit_draft'] = 'Bewerk ontwerptekst';
-$txt['topic_no_longer_available'] = 'Deze ontwerptekst is een antwoord op een onderwerp dat niet langer beschikbaar is. Deze ontwerptekst bewerken zal leiden tot een poging om een nieuw onderwerp te maken.';
-$txt['topic_is_locked'] = 'Deze ontwerptekst is een antwoord op een topic dat is gesloten door een moderator. Deze ontwerptekst bewerken zal leiden tot een poging om een nieuw onderwerp te maken.';
+$txt['show_drafts_none'] = 'Er zijn geen kladjes momenteel opgeslagen';
+$txt['edit_draft'] = 'Bewerk kladjes';
+$txt['topic_no_longer_available'] = 'Dit kladje is een antwoord op een onderwerp dat niet langer beschikbaar is. Dit kladje bewerken zal leiden tot een poging om een nieuw onderwerp te maken.';
+$txt['topic_is_locked'] = 'Dit kladje is een antwoord op een topic dat is gesloten door een moderator. Dit kladje bewerken zal leiden tot een poging om een nieuw onderwerp te maken.';
 $txt['draftAutoPurge'] = array(
-	1 => 'Ontwerpteksten worden 1 dag bewaard op de server,wanneer niet geplaatst of aangepast worden deze verwijderd',
-	'n' => 'Drafts are stored on the server for up to %s days, and if not posted or modified in that time, they will be removed.',
+	1 => 'kladjes worden 1 dag bewaard op de server,wanneer niet geplaatst of aangepast wordt deze verwijderd',
+	'n' => 'kladjes worden %s dagen bewaard op de server, wanneer niet geplaatst of aangepast worden deze verwijderd.',	
 );
-$txt['remove_all_drafts'] = 'verwijder alle ontwerpteksten';
-$txt['remove_all_drafts_confirm'] = 'Weet je zeker dat je alle ontwerpteksten wilt verwijderen? (Dit kan niet ongedaan gemaakt worden)';
+$txt['remove_all_drafts'] = 'verwijder alle kladjes';
+$txt['remove_all_drafts_confirm'] = 'Weet je zeker dat je alle kladjes wilt verwijderen? (Dit kan niet ongedaan gemaakt worden)';
 
 $txt['profileEdit'] = 'Profiel wijzigen';
 $txt['account_info'] = 'Dit zijn je accountinstellingen. Deze pagina bevat alle informatie die jou identificeert op het forum. Uit veiligheidsoverwegingen dien je je huidige wachtwoord in te geven om de veranderingen door te kunnen voeren.';
