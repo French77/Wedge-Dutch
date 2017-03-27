@@ -152,34 +152,34 @@ $txt['poll_voters_no_change_now'] = 'Je kunt dit niet veranderen.';
 $txt['cannot_attach_ext'] = 'Het type bestand dat u hebt geprobeerd om ({ext}) te bevestigen is hier niet toegestaan​​. De toegestane bestandstypen zijn: {attach_exts}';
 
 // Don't use entities in the below string.
-$txt['more_attachments_error'] = 'Je mag helaas niet meer bijlagen plaatsen.';
+$txt['more_attachments_error'] = 'Je mag helaas niet meerdere bijlages plaatsen.';
 
 $txt['more_smileys'] = 'meer';
 $txt['more_smileys_pick'] = 'Selecteer een smiley';
 
-$txt['save_draft'] = 'Opslaan als ontwerptekst';
+$txt['save_draft'] = 'Opslaan als kladje';
 $txt['last_saved_on'] = 'Laatst opgeslagen';
-$txt['draft_saved'] = 'Je post is opgeslagen als ontwerptekst. U kunt het benaderen vanuit <a href="{draft_link}"> je profiel </a>.';
-$txt['pm_draft_saved'] = 'Je bericht is opgeslagen als ontwerptekst. U kunt het benaderen vanuit <a href="{draft_link}"> je profiel </a>.';
-$txt['save_draft_warning'] = 'Het opslaan van een ontwerptekst zal de standaardfunctie gegevens (titel, tekst, pictogram) behouden, maar geen bijlagen, poll opties of iets anders.';
-$txt['empty_draft'] = 'Je kunt niet een ontwerptekst hebben dat helemaal leeg is.';
+$txt['draft_saved'] = 'Je post is opgeslagen als kladje. U kunt het benaderen vanuit <a href="{draft_link}"> je profiel </a>.';
+$txt['pm_draft_saved'] = 'Je bericht is opgeslagen als kladje. U kunt het benaderen vanuit <a href="{draft_link}"> je profiel </a>.';
+$txt['save_draft_warning'] = 'Het opslaan van een kladje zal de standaardfunctie gegevens (titel, tekst, pictogram) behouden, maar geen bijlagen, poll opties of iets anders.';
+$txt['empty_draft'] = 'Je kunt niet een blanco kladje opslaan.';
 
 $txt['report_sent'] = 'Je rapport is succesvol verzonden.';
 
 $txt['deleted_thought'] = '(Verwijderd)';
 
 $txt['error_new_reply'] = array(
-	1 => 'Warning - while you were typing, a new reply has been posted. You may wish to review your post.',
-	'n' => 'Warning - while you were typing, %1$d new replies have been posted. You may wish to review your post.',
+	1 => 'Waarschuwing - tijdens het typen, is er een nieuwe reactie geplaatst. Mischien wil je deze eerst doornemen.',
+	'n' => 'Waarschuwing - tijdens het typen, zijn er %1$d nieuwe reacties geplaatst. Mischien wil je deze eerst doornemen.',
 );
 $txt['error_new_reply_reading'] = array(
-	1 => 'Warning - while you were reading, a new reply has been posted. You may wish to review it before posting.',
-	'n' => 'Warning - while you were reading, %1$d new replies have been posted. You may wish to review them before posting.',
+	1 => 'Waarschuwing - tijdens het doorlezen, is er een nieuwe reactie geplaatst. Mischien wil je deze eerst doornemen.',
+	'n' => 'Waarschuwing - tijdens het doorlezen, zijn er %1$d nieuwe reacties geplaatst. Mischien wil je deze eerst doornemen.',
 );
 
-$txt['announce_this_topic'] = 'Stuur de leden een aankondiging over dit topic';
+$txt['announce_this_topic'] = 'Verstuur een aankondiging over dit topic naar de leden';
 $txt['announce_title'] = 'Verstuur een aankondiging';
-$txt['announce_desc'] = 'Met deze pagina kun je een aankondiging sturen aan de geselecteerde ledengroepen over dit topic.';
+$txt['announce_desc'] = 'Met deze pagina kun je een aankondiging versturen aan de geselecteerde ledengroepen over dit topic.';
 $txt['announce_sending'] = 'Bezit met het versturen van een aankondiging voor topic';
 $txt['announce_done'] = 'gedaan';
 $txt['announce_continue'] = 'Ga verder';
