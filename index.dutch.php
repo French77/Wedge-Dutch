@@ -643,7 +643,7 @@ $txt['privacy_can_edit'] = 'Klik om privacy te veranderen.';
 
 
 // Do not use double quotes in the form_* text strings. (Why would you?)
-$txt['form_submit'] = 'Voorleggen';
+$txt['form_submit'] = 'Aanbieden';
 $txt['form_cancel'] = 'Annuleren';
 
 // Media Gallery
