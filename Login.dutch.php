@@ -141,7 +141,7 @@ $txt['registration_username_unavailable'] = 'Gebruikersnaam is niet beschikbaar'
 $txt['registration_username_check'] = 'Controleer beschikbaarheid gebruikersnaam';
 $txt['registration_password_short'] = 'Wachtwoord is te kort';
 $txt['registration_password_reserved'] = 'Wachtwoord bevat gebruikersnaam of e-mail';
-$txt['registration_password_numbercase'] = 'Wachtwoord moet groot en klein kapitaal en nummers bevatten.';
+$txt['registration_password_numbercase'] = 'Wachtwoord moet zowel hoofdletters en kleine letters en cijfers bevatten.';
 $txt['registration_password_no_match'] = 'Wachtwoorden komen niet overeen';
 $txt['registration_password_valid'] = 'Wachtwoord is geldig';
 
