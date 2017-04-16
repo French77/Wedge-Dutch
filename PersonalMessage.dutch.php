@@ -104,7 +104,7 @@ $txt['pm_actions'] = 'Acties';
 $txt['pm_preferences'] = 'Voorkeuren';
 
 $txt['pm_is_replied_to'] = 'Je hebt dit bericht doorgestuurd of beantwoord.';
-$txt['pm_is_replied_to_sent'] = array(1 => 'This message was replied to.', 'n' => '%s responses to this message were sent.');
+$txt['pm_is_replied_to_sent'] = array(1 => 'Dit bericht is doorgestuurd naar.', 'n' => '%s Reacties op dit bericht zijn verstuurd.');
 
 // Reporting messages.
 $txt['pm_report_to_admin'] = 'Rapporteer aan de beheerder';
