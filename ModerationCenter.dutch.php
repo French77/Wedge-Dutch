@@ -66,8 +66,8 @@ $txt['mc_unapproved_by'] = 'door';
 $txt['mc_unapproved_sure'] = 'Weet je zeker dat je dit wilt doen?';
 $txt['mc_viewmodreport'] = 'Moderatierapport voor %1$s door %2$s';
 $txt['mc_modreport_summary'] = array(
-	1 => 'There has been 1 report concerning this post.',
-	'n' => 'There have been %1$s reports concerning this post.',
+	1 => 'Er is 1 opmerking v.w.b dit bericht.',
+	'n' => 'Er zijn %1$s opmerkingen v.w.b dit bericht.',
 );
 $txt['mc_modreport_lastreport'] = 'Het laatste rapport is van %1$s.';
 $txt['mc_modreport_whoreported_title'] = 'Leden die dit bericht hebben gerapporteerd';
