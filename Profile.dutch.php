@@ -4,7 +4,7 @@
 $txt['no_profile_edit'] = 'Je mag het profiel van dit lid niet veranderen.';
 $txt['website_title'] = 'Websitetitel';
 $txt['website_url'] = 'Website-URL';
-$txt['signature'] = 'Handtekening';
+$txt['signature'] = 'Handtekening/onderschrift';
 $txt['profile_posts'] = 'Berichten';
 $txt['change_profile'] = 'Verander profiel';
 $txt['delete_user'] = 'Verwijder lid';
@@ -12,7 +12,7 @@ $txt['current_status'] = 'Huidige status:';
 $txt['personal_text'] = 'Persoonlijke tekst';
 $txt['personal_picture'] = 'Persoonlijke afbeelding';
 $txt['no_avatar'] = 'Geen avatar';
-$txt['choose_avatar_gallery'] = 'Kies een avatar uit de galerij';
+$txt['choose_avatar_gallery'] = 'Kies een avatar uit de galerie';
 $txt['picture_text'] = 'Afbeelding/tekst';
 $txt['reset_form'] = 'Reset formulier';
 $txt['preferred_language'] = 'Voorkeurstaal';
@@ -187,8 +187,6 @@ $txt['groupMembership_info'] = 'In deze sectie van je profiel kun je kiezen tot 
 $txt['pmprefs'] = 'Persoonlijke berichten';
 $txt['ignoreboards'] = 'Genegeerde boards';
 $txt['ignoreboards_info'] = 'Deze pagina stelt je in staat specifieke boards te negeren. Als een board genegeerd is, zal de \'nieuwe post\' indicator op de boardindex niet oplichten. Ook in de \'Ongelezen berichten\'-link zullen ze niet verschijnen. Echter, genegeerde boards zullen wel nog steeds op de boardindex verschijnen, en zodra je een board opent, zul je nog steeds kunnen zien welke topics er nieuwe berichten bevatten. Ook wanneer je de \'Ongelezen reacties\'-link gebruikt, zul je topics in genegeerde boards nog steeds te zien krijgen.';
-$txt['ignoretopics'] = 'Negeer Topic Opties';
-$txt['ignoretopics_info'] = 'Op deze pagina kunt u bepaalde onderwerpen negeren. Wanneer een onderwerp wordt genegeerd, zal het niet worden meer worden getoond als <em>Ongelezen</em>.Genegeerd onderwerpen zullen nog wel verschijnen op de berichten index.';
 
 $txt['manage_account'] = 'Beheer Account';
 $txt['deleteAccount'] = 'Verwijder dit account';
@@ -234,7 +232,7 @@ $txt['avatar_will_upload'] = 'Upload een avatar';
 $txt['activate_changed_email_title'] = 'E-mailadres gewijzigd';
 $txt['activate_changed_email_desc'] = 'Je hebt je e-mailadres gewijzigd. Om dit adres te valideren, ontvang je een e-mail. Klik de link in die email om je account opnieuw te activeren.';
 
-$txt['no_reminder_email'] = 'Mailprogrammafout';
+$txt['no_reminder_email'] = 'Herinnerings mail kan niet verzonden worden.<br>Verstuur een mail naar<a href="%1$s">de webmaster</a>  om je authenticatie details op te vragen.';
 
 $txt['user_email'] = 'Gebruikersnaam/e-mail';
 $txt['valid_email'] = 'Dit moet een geldig E-mailadres zijn.';
@@ -245,8 +243,8 @@ $txt['reminder_set_password'] = 'Wachtwoord instellen';
 $txt['reminder_password_set'] = 'Wachtwoord succesvol ingesteld';
 $txt['reminder_error'] = '%1$s heeft niet zijn/haar vraag correct beantwoord in een poging om een vergeten wachtwoord te veranderen.';
 
-$txt['registration_not_approved'] = 'Sorry, dit account is nog niet goedgekeurd. Als je het e-mailadres wilt wijzigen, klik';
-$txt['registration_not_activated'] = 'Sorry, dit account is nog niet geactiveerd. Als je de activeringsmail opnieuw wilt toegezonden krijgen, klik';
+$txt['registration_not_approved'] = 'Sorry, dit account is nog niet goedgekeurd. Als je het e-mailadres wilt wijzigen, klik <a href="%1$s">hier</a>.';
+$txt['registration_not_activated'] = 'Sorry, dit account is nog niet geactiveerd. Als je de activeringsmail opnieuw wilt toegezonden krijgen, klik <a href="%1$s">hier</a>';
 
 $txt['primary_membergroup'] = 'Primaire ledengroep';
 $txt['additional_membergroups'] = 'Extra ledengroepen';
@@ -340,6 +338,15 @@ $txt['buddy_ignore_desc'] = 'Deze sectie stelt je in staat om je vrienden- en ne
 $txt['buddy_add'] = 'Voeg toe aan vriendenlijst';
 $txt['buddy_remove'] = 'Verwijder van vriendenlijst';
 $txt['no_buddies'] = 'Je vriendenlijst is momenteel leeg.';
+
+$txt['list_type'] = 'Type';
+$txt['list_name'] = 'Naam';
+$txt['list_visibility'] = 'Zichtbaar voor wie?';
+$txt['list_everyone'] = 'Iedereen|Iedereen kan deze kontakt lijst met de leden daarin zien.';
+$txt['list_all_contacts'] = 'Al mijn kontakten|Mijn kontakten kunnen zien wie er in de lijst staan,';
+$txt['list_just_this_group'] = 'Kontakten in deze lijst|Kontakten in deze lijst zien zichzelf en alle andere in deze lijst.';
+$txt['list_just_this_member'] = 'Individueele Kontakten|Kontakten in deze lijst zien alleen zichzelf andere dus niet ';
+$txt['list_just_me'] = 'Alleen voor mij|Niemand anders ziet dit.';
 
 $txt['ignore_add'] = 'Voeg toe aan negeerlijst';
 $txt['ignore_remove'] = 'Verwijder van negeerlijst';
@@ -463,7 +470,7 @@ $txt['trackEdit_action_usertitle'] = 'Aangepaste titel';
 $txt['trackEdit_action_member_name'] = 'Gebruikersnaam';
 $txt['trackEdit_action_email_address'] = 'E-mailadres';
 $txt['trackEdit_action_id_group'] = 'Primaire ledengroep';
-$txt['trackEdit_action_additional_groups'] = 'Additionele ledengroepen';
+$txt['trackEdit_action_additional_groups'] = 'Extra ledengroepen';
 
 $txt['smileys_current'] = 'Huidig Smiley Set';
 $txt['smileys_none'] = 'Geen Smileys';
