@@ -1,10 +1,10 @@
 # Wedge-Dutch
-Nederlandse vertaling
+## Nederlandse vertaling[![contributions welcome](https://img.shields.io/badge/bijdrage-welkom-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 ![Screenshot](https://imgur.com/VW0NzUZ.png"Screenshot")
 ![Screenshot](https://imgur.com/MUUcjGZ.png"Screenshot")
 
-![](https://img.shields.io/badge/Contributie-Welkom-brightgreen.svg)
+
 
 - [![Download](https://img.shields.io/badge/download-Wedge-brightgreen.svg)](https://github.com/Wedge/wedge)
 - [![Download](https://img.shields.io/badge/LMUBE-Forum-brightgreen.svg)](https://www.linuxmintusers.be/forum/MintWedge/)
