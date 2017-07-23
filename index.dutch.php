@@ -396,7 +396,7 @@ $txt['set_lock'] = 'Topic sluiten';
 $txt['set_unlock'] = 'Topic heropenen';
 $txt['order_pinned_topic'] = 'Vastzetten herordenen';
 
-$txt['page_created'] = 'Pagina gecreeerd in';
+$txt['page_created'] = 'Pagina opgebouwd in ';
 $txt['seconds_with_query'] = '%1$.2f seconden met 1 query.';
 $txt['seconds_with_queries'] = '%1$.2f seconden met %2$d queries.';
 
