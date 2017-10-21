@@ -1,5 +1,5 @@
 # Wedge-Dutch
-## Nederlandse vertaling[![contributions welcome](https://img.shields.io/badge/bijdrage-welkom-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+## Nederlandse vertaling [![contributions welcome](https://img.shields.io/badge/bijdrage-welkom-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 ![Screenshot](https://imgur.com/VYtXPLd.png"Screenshot")
 ![Screenshot](https://imgur.com/xMtnLR4.png"Screenshot")
