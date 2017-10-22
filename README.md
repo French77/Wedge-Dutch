@@ -1,6 +1,7 @@
 # Wedge-Dutch
 ## Nederlandse vertaling 
-![](https://img.shields.io/badge/Contribution-Welcome-brightgreen.svg)
+![](https://img.shields.io/badge/WedgeCMS-Nederlandsevertaling-brightgreen.svg?style=social&label=WedgeCMS)
+![](https://img.shields.io/badge/WedgeCMS-Oktober2017-brightgreen.svg?style=social&label=üpdated)
 
 ![Screenshot](https://imgur.com/VYtXPLd.png"Screenshot")
 ![Screenshot](https://imgur.com/xMtnLR4.png"Screenshot")
