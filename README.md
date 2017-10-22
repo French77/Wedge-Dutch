@@ -1,5 +1,6 @@
 # Wedge-Dutch
 ## Nederlandse vertaling 
+[!Download] (https://img.shields.io/badge/Wedge CMS-Nederlandse Vertaling-brightgreen.svg?style=social&label=Wedge CMS)
 
 ![Screenshot](https://imgur.com/VYtXPLd.png"Screenshot")
 ![Screenshot](https://imgur.com/xMtnLR4.png"Screenshot")
