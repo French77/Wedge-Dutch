@@ -620,15 +620,15 @@ $txt['spoiler'] = 'Spoiler';
 $txt['click_for_spoiler'] = '(klik voor tonen/verbergen)';
 
 $txt['readmore'] = '(%1$d meer tekens)';
-$txt['thoughts'] = 'Chat-berichten!!';
-$txt['add_thought'] = '(Klik hier om chat te plaatsen)';
-$txt['no_thoughts'] = 'Geen chat op dit moment';
+$txt['thoughts'] = 'Gedachte,wat houdt jullie bezig !!';
+$txt['add_thought'] = '(Klik hier om te plaatsen)';
+$txt['no_thoughts'] = 'Er is momenteel niets geplaatst';
 $txt['thome_edit'] = 'Toevoegen';
 $txt['thome_remove'] = 'Verwijder';
 $txt['thome_reply'] = 'Reactie';
 $txt['thome_context'] = 'context';
 $txt['thome_personal'] = 'Andere na mij?';
-$txt['thome_personal_desc'] = 'Toon deze chat onder mijn naam in onderwerpen, voor andere na mij.';
+$txt['thome_personal_desc'] = 'Toon deze gedachte als onderwerp onder mijn naam.';
 
 // Do not use double quotes in the following strings.
 $txt['privacy'] = 'Prive';
