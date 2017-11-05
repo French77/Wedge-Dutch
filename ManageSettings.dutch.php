@@ -111,8 +111,8 @@ $txt['save_pm_draft'] = 'Groepen toestaan om concepten op te slaan';
 $txt['auto_save_pm_draft'] = 'Groepen waarvan concepten automatisch opgeslagen worden';
 $txt['pm_draft_other_settings'] = 'U kunt ook instellen hoe vaak ontwerpen worden opgeslagen en of oude concepten worden verwijderd uit de <a href="<URL>?action=admin;area=postsettings;sa=drafts">Concepten instellingen</a> pagina.';
 
-$txt['likes_enabled'] = '\'\'Like\'\' systeem inschakelen';
-$txt['likes_own_posts'] = 'Gebruikers mogen hun eigen berichten \'\'Like¨';
+$txt['likes_enabled'] = '\'\'Leuk\'\' systeem inschakelen';
+$txt['likes_own_posts'] = 'Gebruikers mogen hun eigen berichten \'\'Als leuk markeren¨';
 
 $txt['boardurl'] = 'Forum URL';
 
