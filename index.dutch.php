@@ -549,7 +549,7 @@ $txt['upshrink_description'] = 'Klap dit in of uit.';
 $txt['mark_unread'] = 'Markeer als ongelezen';
 
 $txt['error_while_submitting'] = 'De volgende fout of fouten zijn opgetreden bij het versturen van dit bericht:';
-$txt['error_old_topic'] = 'Waarschuwing:. In dit onderwerp is in minstens%1$d dagen niets meer gepost.<br>Tenzij u zeker weet dat u wilt beantwoorden, anders is het beter om een nieuw onderwerp te starten.';
+$txt['error_old_topic'] = 'Waarschuwing:. In dit onderwerp is in minstens %1$d dagen niet meer gereageerd.<br>Tenzij u zeker weet dat u nog wilt reageren, anders is het misschien beter om een nieuw onderwerp te starten.';
 
 $txt['mark_read_short'] = 'Markeer als gelezen';
 
