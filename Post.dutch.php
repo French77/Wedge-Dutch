@@ -22,7 +22,7 @@ $txt['bbc_quote'] = 'Voeg citaat toe';
 $txt['list'] = 'Voeg lijst toe';
 $txt['list_unordered'] = 'Voeg ongesorteerde lijst toe';
 $txt['list_ordered'] = 'Voeg gesorteerde lijst toe';
-$txt['footnote'] = 'Footnote';
+$txt['footnote'] = 'Voeg kanttekening toe';
 
 $txt['change_color'] = 'Verander kleur';
 $txt['black'] = 'Zwart';
